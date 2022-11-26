@@ -1,10 +1,18 @@
 .background{
 
-    background: url(./photos/background/leves-fall-microsoft-teams-background.png);
-    
+    background: url(./photos/background/planet-g6db41e4ec_1920.jpg);
+    background-repeat: no-repeat;
     background-size: 1920px 1080px;
     
 }
+
+.banner{
+
+  margin-left: 80px;
+
+}
+
+
 
 .teju{
 
@@ -23,18 +31,15 @@ div{
 
     margin-top: 10ch;
 
-    margin-left: 15ch;
+    margin-left: 10ch;
 }
 
 ul {
 
-   background-color: aliceblue;
+  
     list-style-type: none ;
     margin: 2ch;
     padding: 0;
-
-    
-
 
     border-radius: 10px;
   }
@@ -43,42 +48,25 @@ ul {
 
     margin-left: 5ch;
     display: inline;
-    background-color: aliceblue;
+    color: rgb(223, 230, 236);
+    border-style: solid;
     font-size: 5ch;
-   
-
-
   }
 
   .dec{
     text-decoration: none;
-   
+    color: aliceblue;
   }
 
   .deco{
+    color: aliceblue;
     text-decoration: none;
     margin-left: 30ch;
   }
 
 
-.news{
 
-  text-decoration: none;
-  margin-left: 15ch;
-}
-.contact{
 
-  text-decoration: none;
-  margin-left: 15ch;
-
-}
-
-.about{
-
-  text-decoration: none;
-  margin-left: 15ch;
-
-}
 
 
 .rudra{
@@ -118,9 +106,18 @@ ul {
 
 h3{
 
-    color: blue;
+    color: rgba(241, 241, 245, 0.959);
 
-    margin-left: 30px;
+    margin-left: 50%;
 
     font-size: 5ch;
+}
+
+h4{
+
+  margin-left: 20ch;
+  margin-right: 20ch;
+
+  color: honeydew;
+  font-size: 3ch;
 }

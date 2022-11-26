@@ -52,7 +52,7 @@ ul {
 
     background-color: aliceblue;
      list-style-type: none ;
-     margin-left: 4ch;
+     margin: 2ch;
      padding: 0;
  
      border-radius: 10px;
@@ -69,11 +69,10 @@ ul {
  
    .dec{
      text-decoration: none;
-     margin-left: 5ch;
    }
  
    .deco{
      text-decoration: none;
-     margin-left: 5ch;
+     margin-left: 30ch;
    }
  
