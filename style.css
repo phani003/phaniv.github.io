@@ -1,0 +1,104 @@
+.background{
+
+    background: url(./photos/background/leves-fall-microsoft-teams-background.png);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+    
+}
+
+.teju{
+
+    margin-left: 20px;
+
+    color: hwb(0 94% 4% / 0.904);
+    font-weight:bold;
+    font-size: x-large;
+    font-style: italic;
+
+}
+
+
+
+div{
+
+    margin-top: 10ch;
+
+    margin-left: 10ch;
+}
+
+ul {
+
+   background-color: aliceblue;
+    list-style-type: none ;
+    margin: 2ch;
+    padding: 0;
+
+    border-radius: 10px;
+  }
+
+  li{
+
+    margin-left: 5ch;
+    display: inline;
+    color: aliceblue;
+    background-color: aliceblue;
+    font-size: 5ch;
+  }
+
+  .dec{
+    text-decoration: none;
+  }
+
+  .deco{
+    text-decoration: none;
+    margin-left: 30ch;
+  }
+
+
+
+
+
+
+.rudra{
+    margin-left: 110px;
+
+    color: rgb(245, 250, 239);
+    font-weight:bold;
+    font-size: x-large;
+    font-style: italic;
+
+}
+
+.ph{
+
+    margin-right: 30px;
+
+   animation: alternate-reverse;
+}
+
+.head{
+    color: blue;
+
+    margin-left: 40%;
+
+    font-display: inherit;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.photos{
+
+    border:  30px;
+    border-radius: 30px;
+
+    margin-right: 30px;
+}
+
+h3{
+
+    color: blue;
+
+    margin-left: 30px;
+
+    font-size: 5ch;
+}
