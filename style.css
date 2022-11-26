@@ -23,7 +23,7 @@ div{
 
     margin-top: 10ch;
 
-    margin-left: 10ch;
+    margin-left: 15ch;
 }
 
 ul {
@@ -33,6 +33,9 @@ ul {
     margin: 2ch;
     padding: 0;
 
+    
+
+
     border-radius: 10px;
   }
 
@@ -40,13 +43,16 @@ ul {
 
     margin-left: 5ch;
     display: inline;
-    color: aliceblue;
     background-color: aliceblue;
     font-size: 5ch;
+   
+
+
   }
 
   .dec{
     text-decoration: none;
+   
   }
 
   .deco{
@@ -55,8 +61,24 @@ ul {
   }
 
 
+.news{
 
+  text-decoration: none;
+  margin-left: 15ch;
+}
+.contact{
 
+  text-decoration: none;
+  margin-left: 15ch;
+
+}
+
+.about{
+
+  text-decoration: none;
+  margin-left: 15ch;
+
+}
 
 
 .rudra{
